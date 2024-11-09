@@ -117,7 +117,7 @@ html {
       margin-bottom: 20px;
       transition: all linear 200ms;
       break-inside: avoid-column;
-      background-color: #fff;
+      background-color: transparent;
       border-radius: 17px;
   }
   
